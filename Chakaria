@@ -345,7 +345,7 @@
         <section id="home" class="spa-section active">
             <div class="hero">
                 <div class="hero-content">
-                    <h1>World Class Health Care in Chakaria</h1>
+                    <h1> বিশ্বমানের স্বাস্থ্যসেবা এখন চকরিয়ায় </h1>
                     <p>We provide advanced medical solutions with a human touch. Your health and comfort are our top priorities.</p>
                     <div class="btn-group">
                         <button onclick="navigateTo('appointment')" class="btn btn-blue">Book Appointment</button>
